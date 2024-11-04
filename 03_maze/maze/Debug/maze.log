@@ -1,0 +1,6 @@
+﻿  MyMateMap.cpp
+  MyMazer.cpp
+  main.cpp
+  正在生成代码...
+D:\Game_code\test\maze\MyMazer.cpp(211): warning C4715: “MyMazer::turnDirection”: 不是所有的控件路径都返回值
+  maze.vcxproj -> D:\Game_code\test\Debug\maze.exe
